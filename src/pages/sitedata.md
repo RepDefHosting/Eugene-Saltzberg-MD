@@ -1,26 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Eugene Saltzberg MD
 profileImage:
   src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  alt: ""
+siteUrl: https://eugenesaltzberg.com
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
     url: https://www.linkedin.com
     label: Visit
-    show: true
+    show: false
   pinterest:
     url: null
     label: Visit
@@ -35,6 +33,8 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
+location: Highland Park, IL
 fallbackImage: /img/pic-executive-main-banner-01.webp
+jobTitle: Veteran Emergency Medicine Educator
 siteAnalytics: null
 ---
