@@ -2,15 +2,12 @@
 templateKey: profile-page
 pageSlug: /profile
 pageTitle: Profile
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
-published: true
+metaDescription: Dr. Eugene "Gene" Saltzberg, MD, has established a longstanding
+  career in emergency medicine.
 schemaType: ProfilePage
-header: Client's Name
-featuredImage:
-  src: /img/businesshero1.png
-  alt: Hero Image
-  caption: null
+blogButton:
+  label: Blog
+  link: /blog
 connectWithMe: Connect with me
 pageContent: >-
   # Heading line here
@@ -52,9 +49,12 @@ pageContent: >-
 
   * **Mr. Villacruz** obtained a bachelor of business administration in marketing from the Mays Business School at Texas A&M University, where he pursued the Advertising Strategy career track. Subsequently, he earned a master of science in marketing at the University of Southern California.
 subheader: null
-blogButton:
-  label: Blog
-  link: /blog
+published: true
+header: Eugene Saltzberg, MD
+featuredImage:
+  src: /img/businesshero1.png
+  alt: Hero Image
+  caption: null
 discoverConnectExplore: Discover, Connect & Explore
 longBiography_MD: |
   {{long_biography}}
