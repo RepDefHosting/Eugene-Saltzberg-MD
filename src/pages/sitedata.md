@@ -3,7 +3,7 @@ templateKey: site-data
 published: true
 name: Eugene Saltzberg MD
 profileImage:
-  src: /img/default-profile-male.png
+  src: /img/eugene-saltzberg-md.png
   alt: ""
 siteUrl: https://eugenesaltzberg.com
 socialLinks:
